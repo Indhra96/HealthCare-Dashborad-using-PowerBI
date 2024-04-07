@@ -1,5 +1,7 @@
 # HealthCare-Dashborad-using-PowerBI
 Healthcare Dashboard powered by Power BI:  Empower your healthcare organization with actionable insights using our advanced Power BI dashboard. Our expertly crafted solution integrates seamlessly with your existing data ecosystem to provide comprehensive analytics that drive informed decision-making and improve operational efficiency.
+
+
 With a focus on data-driven strategies, our Healthcare Dashboard offers:
 
 1. **Visualized Patient Data**: Gain a holistic view of patient demographics, medical history, and treatment outcomes through interactive visualizations. Utilize Power BI's robust features to create compelling charts and graphs that highlight key trends and insights.
