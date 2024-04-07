@@ -17,4 +17,6 @@ With a focus on data-driven strategies, our Healthcare Dashboard offers:
 6. **Comprehensive Data Modeling**: Create complex data models and write DAX expressions for calculations and aggregations, tailored to your specific healthcare requirements. Our team will work closely with you to design data models that capture the nuances of your healthcare operations.
 
 7. **Intuitive User Interface**: Provide healthcare practitioners with an intuitive user interface that simplifies data exploration and analysis. Our dashboard features interactive filters, drill-down capabilities, and customizable dashboards, empowering users to extract actionable insights with ease.
-   
+
+
+   LINK : https://app.powerbi.com/links/FbAt5IAG5G?ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3&pbi_source=linkShare
